@@ -1,0 +1,8 @@
+{
+    "package": "interactive_mcq",
+    "name": "Interactive MCQ Card Template",
+    "author": "YourName",
+    "version": "1.0.0",
+    "min_point_version": 49,
+    "conflicts": []
+}
